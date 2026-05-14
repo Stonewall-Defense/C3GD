@@ -1,0 +1,9 @@
+name,manufacturer,model,channels,sample_rate,bit_depth,is_phone
+ALICE,Tascam,DR-05XP,2,96000,32,0
+BOB,Tascam,DR-05XP,2,96000,32,0
+CAROL,Tascam,DR-05XP,2,96000,32,0
+DAVE,DJI,AST01,1,48000,16,0
+ERIN,DJI,AST01,1,48000,16,0
+BUTCH,Samsung,Galaxy Tab A9+,1,48000,16,1
+JON,Samsung,Galaxy Tab A9+,1,48000,16,1
+PIXEL,Google,Pixel 7,1,48000,16,1

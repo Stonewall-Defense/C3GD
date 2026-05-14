@@ -1,0 +1,39 @@
+{
+  "uri": "tag:certusinnovations.com,2024:datasets:CertusGunsPaper",
+  "name": "Certus Gunshot Audio Dataset @ 44.1 kHz",
+  "version": "v0.1.0",
+  "authors": [
+    {
+      "uri": "tag:certusinnovations.com,2024:agents:RyanQuinn",
+      "name": "Ryan Quinn",
+      "roles": [
+        "associatedWith"
+      ],
+      "givenName": null,
+      "familyName": null,
+      "identifierScheme": "tag",
+      "email": null,
+      "affiliations": null
+    }
+  ],
+  "keywords": [
+    "Gunshot Audio",
+    "Clean Audio",
+    "Training Audio"
+  ],
+  "creationDate": "2025-11-18T15:53:32Z",
+  "mediaType": "audio",
+  "mediaSubtype": "wav",
+  "license": "tag:certusinnovations.com,2024:license:restricted",
+  "viewOf": null,
+  "mediaMetadata": {
+    "audio": {
+      "wav": {
+        "numChannels": 1,
+        "sampleRate": 44100,
+        "encoding": "PCM_S",
+        "bitsPerSample": 16
+      }
+    }
+  }
+}

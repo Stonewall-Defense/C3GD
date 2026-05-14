@@ -1,0 +1,23 @@
+mic_loc_id,mic_name,event_name,distance_m,azimuth_deg,notes
+alice_nj_farm,ALICE,nj_farm,2,90,
+bob_nj_farm,BOB,nj_farm,61,34,
+carol_nj_farm,CAROL,nj_farm,100,0,
+dave_nj_farm,DAVE,nj_farm,100,0,
+erin_nj_farm,ERIN,nj_farm,61,-34,
+butch_nj_farm,BUTCH,nj_farm,100,0,
+jon_nj_farm,JON,nj_farm,61,34,
+alice_ny_gravel_pit,ALICE,ny_gravel_pit,2,90,
+bob_ny_gravel_pit,BOB,ny_gravel_pit,56,27,
+carol_ny_gravel_pit_near,CAROL,ny_gravel_pit,50,0,
+carol_ny_gravel_pit_far,CAROL,ny_gravel_pit,100,0,
+dave_ny_gravel_pit_near,DAVE,ny_gravel_pit,50,0,
+dave_ny_gravel_pit_far,DAVE,ny_gravel_pit,100,0,
+erin_ny_gravel_pit,ERIN,ny_gravel_pit,56,-27,
+butch_ny_gravel_pit_near,BUTCH,ny_gravel_pit,50,0,
+butch_ny_gravel_pit_far,BUTCH,ny_gravel_pit,100,0,
+jon_ny_gravel_pit,JON,ny_gravel_pit,56,27,
+alice_oh_farm,ALICE,oh_farm,15,31,
+bob_oh_farm,BOB,oh_farm,80,0,
+dave_oh_farm,DAVE,oh_farm,7,116,on setup table
+erin_oh_farm,ERIN,oh_farm,33,143,in forest
+pixel_oh_farm,PIXEL,oh_farm,80,0,

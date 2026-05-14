@@ -1,0 +1,17 @@
+caliber,width_mm,primer,category
+.22 LR,5.7,rimfire,
+.223 Remington,5.7,centerfire,intermediate
+.300 AAC Blackout,7.8,centerfire,intermediate
+.380 ACP,9,centerfire,pistol
+.40 S&W,10.2,centerfire,pistol
+.45 ACP,11.5,centerfire,pistol
+.45-70,11.6,centerfire,rifle
+12 Ga,,centerfire,shotgun
+16 Ga,,centerfire,shotgun
+20 Ga,,centerfire,shotgun
+5.56x45mm,5.7,centerfire,intermediate
+6.5 Creedmoor,6.7,centerfire,rifle
+7.62x39mm,7.9,centerfire,intermediate
+7.62x51mm,7.82,centerfire,rifle
+7x57mm Mauser,7.25,centerfire,rifle
+9x19mm,9.01,centerfire,pistol

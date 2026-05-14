@@ -1,0 +1,28 @@
+cartridge_id,manufacturer,product_line,caliber,type,weight_grains,weight_oz,muzzle_velocity_fps,muzzle_energy_ft_lb,is_supersonic,event_id
+aac_vmax_300BLK_110,America's Ammunition Company,V-MAX,.300 AAC Blackout,ballistic tip,110,,2325,1320,1,oh_farm
+blazer_380ACP_95,Blazer,Brass Case,.380 ACP,FMJ,95,,945,188,0,oh_farm
+blazer_45ACP_230,Blazer,Brass Case,.45 ACP,FMJ,230,,830,352,0,oh_farm
+blazer_9mm_115,Blazer,Brass Case,9x19mm,FMJ,115,,1125,323,1,oh_farm
+blazer_9mm_147,Blazer,Brass Case,9x19mm,FMJ,147,,950,295,0,oh_farm
+cci_mm_22LR_36,CCI,Mini-Mag HP High Velocity,.22 LR,copper-plated HP,36,,1260,127,1,oh_farm
+federal_syn_40SW_205,Federal,Syntech Action Pistol,.40 S&W,TSJ,205,,850,329,0,oh_farm
+federal_tg_12g_8s,Federal,Top Gun,12 Ga,8 shot,,1,1250,1518,,oh_farm
+federal_ps_4570_300,Federal,Power Shok,45-70,JSP,300,,1850,2280,1,oh_farm
+federal_ae_76239_124,Federal,American Eagle,7.62x39mm,FMJ,124,,2350,1520,1,oh_farm
+federal_tb_20g_rshp,Federal,Truball,20 Ga,rifled slug HP,,0.75,1600,1865,,oh_farm
+fiocchi_dd_45ACP_230,Fiocchi,Defense Dynamics,.45 ACP,JHP,230,,850,369,0,oh_farm
+herters_tar_9mm_115,Herter's,Target,9x19mm,FMJ,115,,1190,1520,1,oh_farm
+hsm_762NATO_150,HSM,HSM-762x51-1-N,7.62x51mm,FMJ,150,,2800,2611,1,oh_farm
+ppu_rl_757m_139,PPU,Rifle Line,7×57mm Mauser,JSP,139,,2657,2179,1,oh_farm
+winchester_ss_300BLK_200,Winchester,Super Suppressed,.300 AAC Blackout,open tip,200,,1060,499,0,oh_farm
+remington_gs_9mm_124,Remington,Golden Saber,9x19mm,JHP+P,124,,1125,348,1,oh_farm
+unk_556NATO_77,,,5.56x45mm,,77,,,,1,oh_farm
+hornady_08255_223rem_55,Hornady,#08255,.223 Remington,spire point,55,,3240,1282,1,ny_gravel_pit
+remington_gl_16g_75s,Remington,Game Loads,16 Ga,7 1/2 shot,,1,1200,1399,,ny_gravel_pit
+remington_umv_380ACP_XX,Remington,UMC,.380 ACP,FMJ,95,,955,190,0,ny_gravel_pit
+winchester_ds_12g_hvls,Winchester,Deer Season,12 Ga,high velocity lead slug,,1.125,1600,2797,,ny_gravel_pit
+winchester_sx_12g_rshp,Winchester,Super X,12 Ga,rifled slug HP,,1,1600,2486,,ny_gravel_pit
+winchester_sx_20g_rshp,Winchester,Super X,20 Ga,rifled slug HP,,0.75,1600,1865,,ny_gravel_pit
+winchester_tp_556NATO_55,Winchester,Target & Practice M193,5.56x45mm,FMJ,55,,3180,1235,1,ny_gravel_pit
+federal_ae_9mm_115,Federal,American Eagle,9x19mm,FMJ,115,,1180,355,1,nj_farm
+sb_ta_65CD_140,Sellier & Bellot,Tactical Ammunition,6.5 Creedmoor,FMJBT,140,,2657,2194,1,nj_farm
