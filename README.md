@@ -8,7 +8,7 @@ We introduce the Certus Caliber Classification Gunshot Dataset (C3GD), a publicl
 
 ## Download
 
-The dataset can be downloaded as a single .zip file (~430 MB): **[Download the C3GD dataset](FIXME)**
+The dataset can be downloaded as a single .zip file (~430 MB): **[Download the C3GD dataset](https://github.com/Stonewall-Defense/C3GD/releases/download/v1.0/C3GD-Dataset.zip)**
 
 ## Results
 
