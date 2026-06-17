@@ -8,7 +8,7 @@ We introduce the Certus Caliber Classification Gunshot Dataset (C3GD), a publicl
 
 ## Download
 
-The dataset can be downloaded as a single .zip file (~430 MB): **[Download the C3GD dataset](https://github.com/Stonewall-Defense/C3GD/releases/download/v1.0/C3GD-Dataset.zip)**
+The dataset can be downloaded from Zenodo (~430 MB): **[Download the C3GD dataset](https://zenodo.org/records/20274400)**
 
 ## Results
 
@@ -78,4 +78,4 @@ The dataset is available under the terms of the [Creative Commons Attribution 4.
 
 ## Citing
 
-TODO
+Gurny, Sinclair, and Ryan Quinn. “Descriptor: Certus Caliber Classification Gunshot Dataset (C3GD).” arXiv:2606.18135. Preprint, arXiv, June 16, 2026. https://doi.org/10.48550/arXiv.2606.18135.
