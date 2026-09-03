@@ -1,7 +1,7 @@
 {
   "uri": "tag:certusinnovations.com,2024:datasets:C3GD",
-  "name": "Certus Gunshot Audio Dataset @ 44.1 kHz",
-  "version": "v0.1.0",
+  "name": "Certus Caliber Classification Gunshot Dataset",
+  "version": "v0.2.0",
   "authors": [
     {
       "uri": "tag:certusinnovations.com,2024:agents:RyanQuinn",
@@ -21,7 +21,7 @@
     "Clean Audio",
     "Training Audio"
   ],
-  "creationDate": "2025-11-18T15:53:32Z",
+  "creationDate": "2026-08-26T17:50:00Z",
   "mediaType": "audio",
   "mediaSubtype": "wav",
   "license": "https://creativecommons.org/licenses/by/4.0/",
@@ -30,7 +30,7 @@
     "audio": {
       "wav": {
         "numChannels": 1,
-        "sampleRate": 44100,
+        "sampleRate": 48000,
         "encoding": "PCM_S",
         "bitsPerSample": 16
       }

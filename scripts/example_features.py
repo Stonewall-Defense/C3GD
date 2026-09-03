@@ -8,7 +8,7 @@ from audio_tensor_plotter import plot_with_time_domain
 ###############################################################################
 # Constants
 ###############################################################################
-SAMPLE_RATE = 44100
+SAMPLE_RATE = 48_000
 AUDIO_DURATION_SEC = 1
 
 N_FFT = 1024
@@ -25,7 +25,7 @@ CHANNELS = [
 ]
 FEATURE_SOURCE = FeatureSource(CHANNELS)
 
-AUDIO = load_wav("scripts/res/380ACP-7-7WYYO4zK0hPS-9.wav", target_sr=SAMPLE_RATE, duration_secs=AUDIO_DURATION_SEC).squeeze()
+AUDIO, _ = load_wav("scripts/res/380ACP-example-audio.wav", target_sr=SAMPLE_RATE, duration_secs=AUDIO_DURATION_SEC)
 
 
 ###############################################################################

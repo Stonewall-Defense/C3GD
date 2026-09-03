@@ -8,7 +8,7 @@ from gsclipper import AmplitudeGunshotExtractor, OnsetChecker, SnrChecker, Sharp
 ###############################################################################
 # Constants
 ###############################################################################
-SAMPLE_RATE = 44100
+SAMPLE_RATE = 48_000
 CLIP_DURATION_SECS = 1
 
 AUDIO = "./scripts/res/LILYPAD_h0a15a3bcfjs_9mm124tmcgr_15_DOM2-USB.wav"

@@ -1,4 +1,5 @@
-name,state,location,date,weather,target,notes
+name,state,location,start_date,weather_overview,target,notes
 nj_farm,New Jersey,farm,2025-11-13,cold,paper,
+nj_farm_2,New Jersey,farm,2026-04-07,windy,paper,
 ny_gravel_pit,New York,gravel pit,2025-12-21,snowy,paper,
-oh_farm,Ohio,farm,2025-08-30,hot,metal,One-Sided Echo
+oh_farm,Ohio,farm,2025-07-30,hot,metal,One-Sided Echo

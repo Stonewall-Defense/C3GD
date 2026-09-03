@@ -1,0 +1,7 @@
+name,day,date,temperature_c,humidity_rh_%,wind_speed_kph,wind_direction,other_conditions
+nj_farm,1,2025-11-13,10,27,24,NW,
+nj_farm_2,1,2026-04-07,13,25,26,NW,
+nj_farm_2,2,2026-04-08,6,35,16,E,
+ny_gravel_pit,1,2025-12-21,3,50,24,W,snow on ground
+oh_farm,1,2025-07-30,32,60,0,CALM,
+oh_farm,2,2025-07-31,22,94,13,N,

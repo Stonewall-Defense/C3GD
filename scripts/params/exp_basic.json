@@ -1,0 +1,17 @@
+{
+    "RUN_NAME": "IEEE_BASIC_V2",
+    "METADATA": "/home/dev/Desktop/C3GD/full_metadata.csv",
+    "SPEC_TYPE": "logmel",
+    "AUG_TYPE": "time",
+    "TRAINING": {
+        "EPOCHS": 100,
+        "BATCH_SIZE": 32,
+        "LR": 0.0005,
+        "TIME_LIMIT": 8
+    },
+    "MODEL": {
+        "CLASSES": 18,
+        "TYPE": "resnet",
+        "VARIANT": 18
+    }
+}

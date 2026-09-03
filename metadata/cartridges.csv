@@ -26,3 +26,30 @@ winchester_sx_20g_rshp,Winchester,Super X,20 Ga,rifled slug HP,,0.75,1600,1865,,
 winchester_tp_556NATO_55,Winchester,Target & Practice M193,5.56x45mm,FMJ,55,,3180,1235,1,ny_gravel_pit
 federal_ae_9mm_115,Federal,American Eagle,9x19mm,FMJ,115,,1180,355,1,nj_farm
 sb_ta_65CD_140,Sellier & Bellot,Tactical Ammunition,6.5 Creedmoor,FMJBT,140,,2657,2194,1,nj_farm
+ammo_inc_115gr_tmc,Ammo Inc,Total Metal Case,9x19mm,TMC,115,,1128,325,1,nj_farm_2
+cci_mini_mag_40gr,CCI,Target Mini-Mag,.22 LR,Copper Plated Round Nose,40,,1235,135,1,nj_farm_2
+cci_sv_40gr,CCI,Standard Velocity,.22 LR,Lead Round Nose,40,,1070,102,0,nj_farm_2
+federal_115gr_fmj,Federal,Champion,9x19mm,FMJ,115,,1125,323,1,nj_farm_2
+federal_124gr_tmj,Federal,American Eagle,9x19mm,TMJ,124,,1120,345,0,nj_farm_2
+federal_138gr_sjhp,Federal,Syntech Defense,9x19mm,Segmented Hollow Point,138,,1050,338,0,nj_farm_2
+federal_automatch_40gr,Federal,Champion AutoMatch,.22 LR,Lead Round Nose,40,,1200,128,1,nj_farm_2
+federal_hv_power_flite_40gr,Federal,Power-Flite,.22 LR,,40,,,0,0,nj_farm_2
+g2_147gr,Speer,Gold Dot,9x19mm,Hollow Point,147,,1020,340,0,nj_farm_2
+gdc_135gr_hp,Speer,Gold Dot Carbine,9x19mm,Hollow Point,135,,1170,410,1,nj_farm_2
+hand_load_148gr,,Hand Load,.38 Special,,148,,,,0,nj_farm_2
+hand_load_230gr,,Hand Load,.45 ACP,,230,,,,0,nj_farm_2
+hornady_american_whitetail_slug,Hornady,American Whitetail,20 Ga,high velocity lead slug,325,,1825,2403,,nj_farm_2
+hornady_crit_def_223_73gr,Hornady,Critical Defense,.223 Remington,Polymer Tip,73,,2790,1262,1,nj_farm_2
+hornady_crit_duty_135gr_flex,Hornady,Critical Duty,9x19mm,FlexLock Polymer Tip,135,,1010,306,0,nj_farm_2
+hornady_frontier_223_68gr,Hornady,Frontier,.223 Remington,BTHP,68,,2960,1323,1,nj_farm_2
+hornady_frontier_556_55gr,Hornady,Frontier,5.56x45mm,Hollow Point Match,55,,3240,1282,1,nj_farm_2
+hornady_frontier_556_68gr,Hornady,Frontier,5.56x45mm,BTHP,68,,2960,1323,1,nj_farm_2
+hornady_match_140gr,Hornady,Match,6.5 Creedmoor,ELD Match,140,,2710,2283,1,nj_farm_2
+hornady_precision_143rg,Hornady,ELD‑X Precision,6.5 Creedmoor,ELD­‑X,143,,2700,2314,1,nj_farm_2
+hornady_vmax_223_53gr,Hornady,Superformance,.223 Remington,Polymer Tip,53,,3465,1413,1,nj_farm_2
+remington_subsonic_38gr,Remington,Subsonic,.22 LR,Lead Hollow Point,38,,1050,93,0,nj_farm_2
+republic_95gr_fml,New Republic,Training and Range,.380 ACP,FMJ,95,,945,188,0,nj_farm_2
+tela_124gr_fmj,TelaAmmo,,7.62x39mm,FMJ,124,,2330,1495,1,nj_farm_2
+trophy_grade_160gr,Nosler,Accubond Trophy Grade,28 Nosler,Polymer Tip,160,,3300,3868,1,nj_farm_2
+winchester_deer_season_slug,Winchester,Deer Season,20 Ga,high velocity lead slug,,1.125,1600,2797,,nj_farm_2
+xtreme_147gr,X-Treme Brass,Hand Load,.300 AAC Blackout,,147,,,,1,nj_farm_2
