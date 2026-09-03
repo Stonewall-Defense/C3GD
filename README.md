@@ -8,7 +8,7 @@ In this work, we introduce the Certus Caliber Classification Gunshot Dataset (C3
 
 ## Download
 
-The dataset can be downloaded from Zenodo (~721 MB): **[Download the C3GD dataset](https://zenodo.org/records/20274400)**
+The dataset can be downloaded from Zenodo (~771 MB): **[Download the C3GD dataset](https://zenodo.org/records/22286299)**
 
 ## Results
 
